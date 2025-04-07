@@ -1,4 +1,5 @@
-✍️ Font Group System
+✍️ Font Group System:
+
 A simple web application to upload .ttf fonts, preview them in real-time, and create/edit/delete font groups with validation.
 
 🚀 Features
@@ -24,3 +25,7 @@ View all font groups
 
 Edit or Delete any group
 
+🔒 Notes
+Only .ttf files are accepted
+
+Group creation requires a minimum of 2 fonts
